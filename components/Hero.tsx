@@ -23,8 +23,6 @@ export default function Hero({}: Props) {
       
       {/* circles */}
       <BackgroundCircles />
-
-
       {/* eslint-disable-next-line @next/next/no-img-element */}
       <img
         className="relative rounded-full h-32 w-32 mx-auto object-cover"
